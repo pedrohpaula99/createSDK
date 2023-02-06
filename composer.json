@@ -2,6 +2,7 @@
     "name": "inter/inter-sdk-php",
 	"description": "Inter APIs SDK PHP",
 	"version": "1.1.0",
+	"license": "MIT",
 	"require": {
 		"guzzlehttp/guzzle": "^7.5",
 		"php": "^7.2 || ^8.0"
