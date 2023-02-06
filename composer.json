@@ -1,0 +1,14 @@
+{
+    "name": "inter/inter-sdk-php",
+	"description": "Inter APIs SDK PHP",
+	"version": "1.1.0",
+	"require": {
+		"guzzlehttp/guzzle": "^7.5",
+		"php": "^7.2 || ^8.0"
+	},
+    "autoload": {
+		"psr-4": {
+			"Inter\\": "src/Inter"
+		}
+	}
+ }
